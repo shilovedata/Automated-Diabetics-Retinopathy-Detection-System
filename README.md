@@ -9,5 +9,7 @@ creation of an intuitive interface using Streamlit, the aim is to democratize ac
 # Tools Used:
 
 Python
+
 Deep Learning
+
 Sreamlit
